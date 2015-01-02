@@ -15,7 +15,7 @@ euismod. Fusce viverra dapibus purus ac fermentum. Nunc lobortis massa
 neque, eget fringilla lacus tincidunt in. Nulla facilisi. Sed iaculis
 euismod enim, quis faucibus felis tempor ut.
 
-# Introduction:
+# Introduction
 
 ## Background/Rationale:
 
