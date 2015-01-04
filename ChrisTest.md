@@ -4,6 +4,6 @@
 
 I have no idea what this section data is all about!
 
-Blah!??
+Blah!
 
 W00T
