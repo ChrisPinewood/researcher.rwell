@@ -13,11 +13,9 @@ elementum tellus. Aliquam erat volutpat. Suspendisse auctor tellus elit,
 sed ultricies nulla pellentesque at. Aenean feugiat luctus ex vel
 euismod. Fusce viverra dapibus purus ac fermentum. Nunc lobortis massa
 neque, eget fringilla lacus tincidunt in. Nulla facilisi. Sed iaculis
-euismod enim, quis faucibus felis tempor ut.
+euismod enim, quis faucibus felis tempor ut. \# Introduction
 
-# Introduction:
-
-## Background/Rationale:
+## Background/rationale
 
 Nunc vehicula cursus est, sed sagittis risus. Integer pretium at felis
 et aliquam. Aenean dignissim eros et eros mattis interdum. Donec rhoncus
@@ -37,7 +35,7 @@ nulla erat, tempor ac suscipit ac, varius et eros. Quisque finibus eros
 vel diam egestas, sit amet egestas ligula rhoncus. Nulla at pellentesque
 lacus.
 
-## Objectives:
+## Objectives
 
 Suspendisse potenti. Duis convallis, neque in rhoncus rhoncus, tortor
 lorem semper mauris, in facilisis lacus purus molestie velit. Nam
@@ -51,9 +49,9 @@ Nam auctor est in odio blandit, quis volutpat leo lacinia. Curabitur
 posuere dui ut lorem maximus, et consectetur ligula ullamcorper.
 Vestibulum ornare vel sem eu euismod.
 
-# Methods:
+# Methods
 
-## Study Design:
+## Study design
 
 Vestibulum tristique accumsan tellus vel porttitor. Nullam maximus nulla
 at enim imperdiet, vulputate aliquet elit interdum. Mauris mattis varius
@@ -65,7 +63,7 @@ ultricies eros a nisl viverra sodales. Vestibulum epidemiology ante eu
 leo laoreet, quis scelerisque erat fringilla. Quisque cursus quam arcu,
 ut faucibus lectus fermentum in. Nam bibendum lorem ex.
 
-## Setting:
+## Setting
 
 Mauris blandit posuere justo cursus ultricies. Nulla ut libero lobortis,
 molestie neque quis, elementum enim. Praesent eleifend lacinia magna ut
@@ -79,7 +77,7 @@ faucibus, sodales lacus nec, rhoncus massa. Nulla cursus arcu sed nisl
 vehicula rutrum. Etiam vulputate erat quis massa tempor, non semper arcu
 facilisis.
 
-## Participants:
+## Participants
 
 Integer euismod lacus vel lobortis feugiat. Vestibulum id diam molestie,
 molestie sem vel, tempus nibh. Vestibulum in urna non ante dictum
@@ -104,7 +102,7 @@ condimentum finibus pretium. Donec sit amet velit non diam sodales
 blandit. Nam aliquet, ex congue lobortis iaculis, velit ex tincidunt
 leo, vel convallis elit odio nec augue.
 
-## Variables:
+## Variables
 
 Pellentesque feugiat pellentesque neque, vulputate varius nisl vehicula
 sit amet. Nam eget neque at est fringilla posuere non et purus. Aenean
@@ -116,7 +114,7 @@ nunc vehicula. Aliquam erat volutpat. Praesent fringilla tellus et
 iaculis volutpat. Integer ut lorem convallis eros efficitur viverra et
 vitae diam.
 
-## Data sources/measurement:
+## Data sources/measurement
 
 Sed malesuada odio laoreet lorem gravida ullamcorper. Quisque felis
 magna, iaculis in mattis sed, scelerisque nec justo. Aliquam rutrum
@@ -138,7 +136,7 @@ luctus dictum tincidunt. Vivamus faucibus sagittis ante, a pharetra mi
 sagittis sit amet. Duis ac egestas enim. Vestibulum lacinia arcu ac
 magna condimentum rhoncus.
 
-## Bias:
+## Bias
 
 Curabitur sed efficitur est. Sed pharetra efficitur ullamcorper.
 Suspendisse condimentum ante et feugiat molestie. Vestibulum non diam et
@@ -152,7 +150,7 @@ laoreet, consequat libero sed, facilisis ipsum. Nunc ullamcorper
 tincidunt urna, sit amet euismod orci pellentesque eget. Fusce at massa
 ullamcorper, fringilla urna ac, iaculis turpis.
 
-## Study Size:
+## Study size
 
 Nam viverra quam ante, pulvinar tempor ex vestibulum eu. Vivamus ac
 mollis purus, quis tincidunt eros. Phasellus fermentum rutrum ex vel
@@ -169,7 +167,7 @@ Integer posuere ex justo, a luctus mi pretium vitae. Morbi ultricies
 vitae magna et euismod. Nunc sodales ullamcorper lacus, at ornare felis
 scelerisque quis.
 
-## Quantitative Variables:
+## Quantitative variables
 
 Vivamus efficitur ac libero vel venenatis. Vivamus tempus lectus ipsum,
 vel facilisis nulla rutrum laoreet. Vivamus a est sit amet ex faucibus
@@ -179,7 +177,7 @@ rhoncus arcu nec nisl faucibus, hendrerit blandit erat euismod. Etiam
 sem tellus, sagittis vitae lorem quis, maximus facilisis ex. Maecenas
 quis eleifend lorem.
 
-## Statistical methods:
+## Statistical methods
 
 Praesent gravida felis a urna congue sagittis. Aliquam scelerisque
 dignissim mauris nec suscipit. In hac habitasse platea dictumst. Morbi
@@ -191,9 +189,9 @@ magna. Nulla ut scelerisque nisi. Proin dictum sit amet urna eget
 bibendum. Aenean pharetra mi ac dui dapibus, a suscipit neque efficitur.
 Donec tincidunt dolor a libero finibus, ultricies congue ante aliquet.
 
-# Results:
+# Results
 
-## Participants:
+## Participants
 
 Fusce vestibulum elementum consequat. Nullam nec dictum urna, at luctus
 nunc. Aliquam congue enim magna, scelerisque pretium felis lobortis
@@ -204,7 +202,7 @@ mauris ac pellentesque aliquam. Vivamus sodales lectus at sagittis
 pulvinar. Phasellus eget laoreet nisi. Aliquam consectetur pulvinar
 rhoncus.
 
-## Descriptive Data:
+## Descriptive data
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
 ridiculus mus. Curabitur diam nibh, finibus convallis vestibulum eu,
@@ -218,7 +216,7 @@ auctor. Pellentesque posuere diam sit amet porta iaculis. Nullam
 ullamcorper ante sed neque hendrerit, at dapibus purus viverra.
 Phasellus sed augue vitae libero auctor dictum id vel tellus.
 
-## Outcome Data:
+## Outcome data
 
 Vestibulum tincidunt orci neque, et ornare metus aliquet eget. In hac
 habitasse platea dictumst. Curabitur metus quam, euismod eu euismod ac,
@@ -235,7 +233,7 @@ rhoncus arcu nec nisl faucibus, hendrerit blandit erat euismod. Etiam
 sem tellus, sagittis vitae lorem quis, maximus facilisis ex. Maecenas
 quis eleifend lorem.
 
-## Main Results:
+## Main results
 
 Praesent gravida felis a urna congue sagittis. Aliquam scelerisque
 dignissim mauris nec suscipit. In hac habitasse platea dictumst. Morbi
@@ -256,7 +254,7 @@ mauris ac pellentesque aliquam. Vivamus sodales lectus at sagittis
 pulvinar. Phasellus eget laoreet nisi. Aliquam consectetur pulvinar
 rhoncus.
 
-## Other Analyses:
+## Other analyses
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
 ridiculus mus. Curabitur diam nibh, finibus convallis vestibulum eu,
@@ -277,7 +275,9 @@ dolor molestie aliquam. Nam vitae gravida arcu. Donec aliquam velit
 metus, vel sagittis neque ultrices et. Duis dictum tortor et ligula
 finibus pellentesque. Vestibulum vel est eget erat dictum rhoncus.
 
-## Key Results:
+# Discussion
+
+## Key results
 
 Fusce vestibulum elementum consequat. Nullam nec dictum urna, at luctus
 nunc. Aliquam congue enim magna, scelerisque pretium felis lobortis
@@ -288,7 +288,7 @@ mauris ac pellentesque aliquam. Vivamus sodales lectus at sagittis
 pulvinar. Phasellus eget laoreet nisi. Aliquam consectetur pulvinar
 rhoncus.
 
-## Limitations:
+## Limitations
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
 ridiculus mus. Curabitur diam nibh, finibus convallis vestibulum eu,
@@ -302,7 +302,7 @@ auctor. Pellentesque posuere diam sit amet porta iaculis. Nullam
 ullamcorper ante sed neque hendrerit, at dapibus purus viverra.
 Phasellus sed augue vitae libero auctor dictum id vel tellus.
 
-## Interpretation:
+## Interpretation
 
 Vestibulum tincidunt orci neque, et ornare metus aliquet eget. In hac
 habitasse platea dictumst. Curabitur metus quam, euismod eu euismod ac,
@@ -320,7 +320,7 @@ mauris ac pellentesque aliquam. Vivamus sodales lectus at sagittis
 pulvinar. Phasellus eget laoreet nisi. Aliquam consectetur pulvinar
 rhoncus.
 
-## Generalisability:
+## Generalisability
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
 ridiculus mus. Curabitur diam nibh, finibus convallis vestibulum eu,
@@ -334,7 +334,9 @@ auctor. Pellentesque posuere diam sit amet porta iaculis. Nullam
 ullamcorper ante sed neque hendrerit, at dapibus purus viverra.
 Phasellus sed augue vitae libero auctor dictum id vel tellus.
 
-## Funding:
+# Other information
+
+## Funding
 
 Vestibulum tincidunt orci neque, et ornare metus aliquet eget. In hac
 habitasse platea dictumst. Curabitur metus quam, euismod eu euismod ac,
